@@ -7,7 +7,7 @@ const Login = () => {
   const [email, setemail] = useState("")
   const [password, setpassword] = useState("")
 
-  const {axios, setToken} = useAppContext;
+  const {axios, setToken} = useAppContext();
   const handleSubmit = async (e)=>{
     e.preventDefault()
 
