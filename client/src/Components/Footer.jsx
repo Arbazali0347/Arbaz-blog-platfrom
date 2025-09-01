@@ -11,7 +11,7 @@ const Footer = () => {
                     <p className="max-w-[410px] mt-6 text-center">Welcome to Arbaz Bloging platform, a space where we share tips, stories, and insights on technology, lifestyle, and learning.</p>
                 </div>
             </div>
-            <p className='py-4 text-center text-sm md:text-base text-gray-500/80'>Copyright 2025 © QuickBlog GreatStack - All Right Reserved.</p>
+            <p className='py-4 text-center text-sm md:text-base text-gray-500/80'>Copyright 2025 © Developed by Arbaz Ali - All Right Reserved.</p>
         </div>
     )
 }
